@@ -3,7 +3,7 @@ Assignments for online courses: 'Practical Predictive Analytics', 'Data Manipula
 
 ##Details
 
-Markup: 1. Assignment 1: 
+Markup : 1. Assignment 1
           1. The live twitter feed is first being saved to a txt file. 
           2. Then for each tweet a sentiment score was assigned, either positive, negative or neutral, meaning happy,sad or neutral. This was done using existing sentiment dictionaries.
           3. The next step was to derive the sentiment of new unseen terms by their context. 
