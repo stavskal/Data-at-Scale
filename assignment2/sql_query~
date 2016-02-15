@@ -1,0 +1,18 @@
+
+CREATE VIEW fuckoff1 AS
+
+SELECT * FROM frequency
+UNION
+SELECT 'q' as docid, 'washington' as term, 1 as count 
+UNION
+SELECT 'q' as docid, 'taxes' as term, 1 as count
+UNION 
+SELECT 'q' as docid, 'treasury' as term, 1 as count;
+
+SELECT MAX(rsum) FROM(
+
+SELECT SUM(a1.count*a2.count) AS rsum
+FROM fuckoff1 as a2, fuckoff1 as a1
+WHERE a1.term=a2.term
+GROUP BY a1.docid, a2.docid
+);
