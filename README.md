@@ -35,7 +35,7 @@ Thinkin in MapReduce
 Classification of Ocean Microbes in R
 
 **Assignment 6**
-Data Visualization assignment hosted [here](https://github.com/stavskal/DataVisualizationAssignment/blob/master/CrimesVisualization.ipynb)
+Data Visualization assignment of crimes in San Fransisco hosted [here](https://github.com/stavskal/DataVisualizationAssignment/blob/master/CrimesVisualization.ipynb)
 
 
 
