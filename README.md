@@ -30,3 +30,13 @@ Thinkin in MapReduce
 4. Generation of list containing all non-symmetric friend relationships
 5. Given a nucleotide sequence, remove all duplicates in a sophisticated manner
 
+
+**Assignment 5**
+Classification of Ocean Microbes in R
+
+**Assignment 6**
+Data Visualization assignment hosted [here](https://github.com/stavskal/DataVisualizationAssignment/blob/master/CrimesVisualization.ipynb)
+
+
+
+
