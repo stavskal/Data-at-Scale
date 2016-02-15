@@ -19,7 +19,8 @@ Familiarity with SQL
 1. Basic SQL commands for data inspection
 2. Expressing matrix multiplication in SQL
 3. Computing similarity between documents, keyword search
-4. 
+
+
 **Assignment 3**
 Thinkin in MapReduce
 
