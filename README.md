@@ -13,7 +13,7 @@ Sentiment analysis of twitter feed
 5. Lastly, we had to combine techniques to compute the 'happiness' of each state of America by combining the individual sentiments of each tweet tweeted from their coordinates
 
 **Assignment 2**
-
+Familiarity with SQL
 
 
 1. Basic SQL commands for data inspection
