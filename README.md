@@ -26,4 +26,6 @@ Thinkin in MapReduce
 1. Creating an inverted index (=a dictionary where is word is associated with a list of the document identifiers in which that word appears)
 2. Implementing relational join as a MapReduce query
 3. Creation of a simple social network dataset representing friend relationships between two people.
+4. Generation of list containing all non-symmetric friend relationships
+5. Given a nucleotide sequence, remove all duplicates in a sophisticated manner
 
