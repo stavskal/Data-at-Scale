@@ -19,4 +19,11 @@ Familiarity with SQL
 1. Basic SQL commands for data inspection
 2. Expressing matrix multiplication in SQL
 3. Computing similarity between documents, keyword search
+4. 
+**Assignment 3**
+Thinkin in MapReduce
+
+1. Creating an inverted index (=a dictionary where is word is associated with a list of the document identifiers in which that word appears)
+2. Implementing relational join as a MapReduce query
+3. Creation of a simple social network dataset representing friend relationships between two people.
 
